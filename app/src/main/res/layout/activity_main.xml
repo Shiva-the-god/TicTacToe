@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/t"
+    android:background="@drawable/ty"
     android:gravity="center"
     android:orientation="horizontal"
     tools:context=".MainActivity">
@@ -30,52 +30,88 @@
             android:layout_row="0"
             android:layout_column="0"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn2"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn3"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn4"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn5"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn6"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn7"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn8"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
         <Button
             android:id="@+id/btn9"
             android:layout_marginLeft="11dp"
             android:onClick="Check"
+            android:hint="Tap"
+            android:textColorHint="@color/white"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textStyle="bold"></Button>
 
     </GridLayout>
@@ -85,7 +121,7 @@
         android:layout_width="246dp"
         android:layout_height="69dp"
         android:gravity="center"
-        android:text="Go ahead !"
+        android:text="Let's Start"
         android:textColor="@color/black"
         android:textSize="30dp"
         android:textStyle="bold"
